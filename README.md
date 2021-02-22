@@ -2,7 +2,7 @@
 
 Para acessar a api basta acessar o endereço [mockapi.io](https://6031ec63081a010017547462.mockapi.io/api/v1/user).
 
-Para acessar a pagina publicada basta acessar o endereço [mockapi.io](https://6031ec63081a010017547462.mockapi.io/api/v1/user).
+Para acessar a pagina publicada basta acessar o endereço [wiser-educacao](https://wiser-educacao.herokuapp.com/).
 
 ## Available Scripts
 
