@@ -7,7 +7,7 @@ export const Container = styled.div`
   align-items: center;
   background: url(${heroes}) no-repeat;
   @media (max-width: 800px) {
-    height: 100%;
+    //height: 100%;
     background-size: 100%;
   }
 
