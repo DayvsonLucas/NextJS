@@ -1,8 +1,8 @@
 ### `npm run build`
 
-Para acessar a api basta acessar o endereço [mockapi.io](https://6031ec63081a010017547462.mockapi.io/api/v1/user).
+Para acessar a api basta acessar o endereço [https://6031ec63081a010017547462.mockapi.io](https://6031ec63081a010017547462.mockapi.io/api/v1/user).
 
-Para acessar a pagina publicada basta acessar o endereço [wiser-educacao](https://wiser-educacao.herokuapp.com/).
+Para acessar a pagina publicada basta acessar o endereço [https://wiser-educacao.herokuapp.com/](https://wiser-educacao.herokuapp.com/).
 
 
 Dados de acesso para  simular o login:<br>
