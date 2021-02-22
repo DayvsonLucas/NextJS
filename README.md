@@ -4,6 +4,11 @@ Para acessar a api basta acessar o endereço [mockapi.io](https://6031ec63081a01
 
 Para acessar a pagina publicada basta acessar o endereço [wiser-educacao](https://wiser-educacao.herokuapp.com/).
 
+
+Dados de acesso para  simular o login:<br>
+user: contato@wiser.com.br<br>
+password: P@ssw0rd<br>
+
 ## Available Scripts
 
 No diretório do projeto, você pode executar:
